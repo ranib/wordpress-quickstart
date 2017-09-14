@@ -117,7 +117,7 @@
                             "namespace": "openshift",
                             "name": "php:${PHP_VERSION}"
                         },
-                        "scripts": "https://raw.githubusercontent.com/openshift-evangelists/wordpress-quickstart/master/bootstrap"
+                        "scripts": "https://raw.githubusercontent.com/ranib/wordpress-quickstart/master/bootstrap"
                     }
                 },
                 "output": {
